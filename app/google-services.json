@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "505973461638",
+    "project_id": "fir-with-twilio",
+    "storage_bucket": "fir-with-twilio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505973461638:android:a7b41b871e01b303937707",
+        "android_client_info": {
+          "package_name": "com.hphuc5453.twiliocallandchatexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505973461638-rrnbrshe82atbtbe5uu6gag0o4qcfq6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hphuc5453.twiliocallandchatexample",
+            "certificate_hash": "bfc1fbdbf209b0143dfaad41e6c6ad0a171c8a9d"
+          }
+        },
+        {
+          "client_id": "505973461638-gek93ao821p5h8edlaakblna0bqb0fs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyNDVX9CWeB17MNtR7cbvy-NBFwPzTYS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505973461638-gek93ao821p5h8edlaakblna0bqb0fs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

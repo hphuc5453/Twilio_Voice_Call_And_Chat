@@ -1,0 +1,3 @@
+package com.hphuc5453.twiliocallandchatexample.baseservice
+
+internal interface IBaseService
